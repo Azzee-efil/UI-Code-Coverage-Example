@@ -39,8 +39,6 @@ Follow these steps to set up and run the Ruby script for testing and coverage co
     mkdir -p /path/to/your/project/coverage_report
     ```
 
-    Replace `/path/to/your/project` with the root directory of your project.
-
 5. **Generate the Coverage Report**
 
     After running the tests, generate the coverage report using nyc:
