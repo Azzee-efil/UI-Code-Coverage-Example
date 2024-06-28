@@ -23,7 +23,7 @@ Ensure you have the following versions installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ui-code-coverage-example.git
+    git clone https://github.com/Azzee-efil/UI-Code-Coverage-Example.git
     cd ui-code-coverage-example
     ```
 
