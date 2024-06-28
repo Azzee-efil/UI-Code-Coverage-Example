@@ -24,7 +24,7 @@ Follow these steps to set up and run the Ruby script for testing and coverage co
     ```bash
     gem install selenium-webdriver
     ```
-
+    
 3. **Run the Test Script**
 
     Execute the Ruby test script with the following command:
@@ -32,10 +32,18 @@ Follow these steps to set up and run the Ruby script for testing and coverage co
     ruby test.rb
     ```
 
-4. **Generate the Coverage Report**
+4. **Create the Coverage Report Directory**
+
+    Before generating the coverage report, create an empty directory named `coverage_report`:
+    ```bash
+    mkdir -p /path/to/your/project/coverage_report
+    ```
+
+    Replace `/path/to/your/project` with the root directory of your project.
+
+5. **Generate the Coverage Report**
 
     After running the tests, generate the coverage report using nyc:
     ```bash
     npx nyc report --reporter=html --report-dir=/path/to/your/project/coverage_report --temp-directory=/path/to/your/project/.nyc_output
     ```
-    
