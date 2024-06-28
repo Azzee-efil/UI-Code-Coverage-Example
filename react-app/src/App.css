@@ -1,0 +1,49 @@
+.app {
+  max-width: 72%;
+  margin: auto;
+  padding: 2em;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.title {
+  text-align: center;
+}
+
+.control-group {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
+}
+
+.select {
+  width: 48%;
+  padding: 0.5em;
+}
+
+.date {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
+
+.input {
+  width: 100%;
+  padding: 0.5em;
+  margin-bottom: 1em;
+}
+
+.formatted-number {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
+
+.units {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.unit {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+  margin-left: 24px;
+}

@@ -1,0 +1,15 @@
+{
+  "translation": {
+      "welcome": "Bienvenue",
+      "placeholder": "Entrez votre numéro",
+      "numberFormat": "Numéro formaté: {{value}}",
+      "label": "Choisissez une option pour modifier les formats d'heure et de nombre:",
+      "units": "Valeurs formatées:",
+      "unit": {
+          "length": "{{value}} centimètres",
+          "weight": "{{value}} kilogrammes",
+          "volume": "{{value}} onces"
+      },
+      "missing_translation": "Traduction non disponible"
+  }
+}
