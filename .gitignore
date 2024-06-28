@@ -1,0 +1,16 @@
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore Node.js modules
+node_modules/
+
+# Other potential entries
+dist/
+build/
+.env
+coverage/
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
