@@ -36,3 +36,7 @@ Ensure you have the following versions installed:
     ```bash
     cd ruby-script
     ```
+
+## Example Coverage Report
+
+You can view an example of the generated coverage report [here](coverage_report_example/index.html).

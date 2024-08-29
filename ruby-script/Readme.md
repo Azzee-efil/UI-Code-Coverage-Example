@@ -45,7 +45,3 @@ Follow these steps to set up and run the Ruby script for testing and coverage co
     ```bash
     npx nyc report --reporter=html --report-dir=/path/to/your/project/coverage_report --temp-directory=/path/to/your/project/.nyc_output
     ```
-   
-## Example Coverage Report
-
-You can view an example of the generated coverage report [here](coverage_report_example/index.html).
