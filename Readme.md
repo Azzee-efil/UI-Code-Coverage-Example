@@ -39,4 +39,4 @@ Ensure you have the following versions installed:
 
 ## Example Coverage Report
 
-You can view an example of the generated coverage report [here](coverage_report_example/index.html).
+You can view an example of the generated coverage report [here](https://azzee-efil.github.io/UI-Code-Coverage-Example/coverage_report_example/index.html).
